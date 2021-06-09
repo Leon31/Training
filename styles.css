@@ -1,3 +1,7 @@
+body {
+    background-color: darkkhaki;
+}
+
 h1 {
     font-size: 64px;
     color: darkblue;
@@ -5,6 +9,6 @@ h1 {
 }
 
 p {
-    color: darkgoldenrod;
+    color: darkred;
     font-size: 24px;
 }
