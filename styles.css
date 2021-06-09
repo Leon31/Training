@@ -14,3 +14,8 @@ p {
     font-size: 24px;
 }
 
+ul {
+    font-size: 18px;
+    font-style: italic;
+    color: darkslategrey;
+}
