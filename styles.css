@@ -14,8 +14,26 @@ p {
     font-size: 24px;
 }
 
+.ul-container {
+    border: 1px solid steelblue;
+    width: 400px;
+    margin: 0 auto;
+
+    background-color: steelblue;
+}
+
 ul {
-    font-size: 18px;
     font-style: italic;
-    color: darkslategrey;
+    color: darkkhaki;
+}
+
+ul h4 {
+    font-size: 24px;
+    text-align: center;
+}
+
+li {
+    font-weight: normal;
+    font-size: 18px;
+    margin: 10px;
 }
